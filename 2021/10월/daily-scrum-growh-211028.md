@@ -43,12 +43,9 @@
 
 ### Hard Skills
 
-- 
+- [JSON Data Type](https://www.w3schools.com/js/js_json_datatypes.asp)
 
 ### Soft Skills
 
-- 
-
-### Process
-
--
+- Trade-off가 필요한 지점에서 양쪽 다 포기하지 못하고 머리만 아프게 계속 고민을 하고 있다. 내 안에 다른 대안이 없음을 인정하고 Trade-off 지점을 선택해야 한다.
+- 코드 레벨에서 구조를 확인하고 수정하기가 너무 어렵다. 코딩에 달려들기 전에, 모델링을 통해 큰 그림을 보고 문제점을 파악해 보면 더 좋겠다.
