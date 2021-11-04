@@ -1,7 +1,8 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
-[21.11.03](https://github.com/Jsing/daily-scrum-growth/blob/f47c3aefde06598496837502afcb4901b2377c39/2021/11%EC%9B%94/21.11.03.md)
+[21.11.04](https://github.com/Jsing/daily-scrum-growth/blob/8956ebbc3df232e6af8abfbc3d1d6d46a0113c4e/2021/11%EC%9B%94/21.11.03.md)
+/ [21.11.03](https://github.com/Jsing/daily-scrum-growth/blob/f47c3aefde06598496837502afcb4901b2377c39/2021/11%EC%9B%94/21.11.03.md)
 / [21.11.02](https://github.com/Jsing/daily-scrum-growth/blob/1a26732f8db76152bf9a450af69ae21bb7838fed/2021/11%EC%9B%94/21.11.02.md)
 / [21.11.01](https://github.com/Jsing/daily-scrum-growth/blob/1780e358fb5cd725ef46b015ea5971564f54ee25/2021/11%EC%9B%94/21.11.01.md)
 / [21.10.29](https://github.com/Jsing/daily-scrum-growth/blob/10c7c7a5334d17defbd5631dc44c6a398023a29f/2021/10%EC%9B%94/daily-scrum-growth-211029.md)
