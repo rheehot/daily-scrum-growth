@@ -1,6 +1,8 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.11.05](https://github.com/Jsing/daily-scrum-growth/blob/da5a9607e797f843dcceffcda43d80d820788980/2021/11%EC%9B%94/21.11.05.md) : NextMoveAcuCam 단위 시험 이슈 해결, Web/Service Layer 구현 요구사항 분석  
+
 [21.11.04](https://github.com/Jsing/daily-scrum-growth/blob/8956ebbc3df232e6af8abfbc3d1d6d46a0113c4e/2021/11%EC%9B%94/21.11.03.md)
 / [21.11.03](https://github.com/Jsing/daily-scrum-growth/blob/f47c3aefde06598496837502afcb4901b2377c39/2021/11%EC%9B%94/21.11.03.md)
 / [21.11.02](https://github.com/Jsing/daily-scrum-growth/blob/1a26732f8db76152bf9a450af69ae21bb7838fed/2021/11%EC%9B%94/21.11.02.md)
