@@ -1,7 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
-[21.11.10](https://github.com/Jsing/daily-scrum-growth/blob/2a294ff4b6cd1b85f43608708a27d0b2c0283410/2021/11%EC%9B%94/21.11.10.md) : VendorParam 처리! 제어 및 모티러이 구조 단위 시험!  
+[21.11.10](https://github.com/Jsing/daily-scrum-growth/blob/2a294ff4b6cd1b85f43608708a27d0b2c0283410/2021/11%EC%9B%94/21.11.10.md) : VendorParam 처리! 제어 및 모니터링 기능 단위 시험!  
 [21.11.09](https://github.com/Jsing/daily-scrum-growth/blob/94181d7f61a3c83c4678cc7dc794f615fd80b4ed/2021/11%EC%9B%94/21.11.09.md) : F/E & Service Layer 연동 요구사항 채굴하기! 연동하기! / JMS, Stomp  
 [21.11.08](https://github.com/Jsing/daily-scrum-growth/blob/0a6bdff06b05d3b2cc1e5d18147aef8808886cda/2021/11%EC%9B%94/21.11.08.md) : 리팩토링! 일정 관리! 팀 관리!  
 [21.11.05](https://github.com/Jsing/daily-scrum-growth/blob/da5a9607e797f843dcceffcda43d80d820788980/2021/11%EC%9B%94/21.11.05.md) : NextMoveAcuCam 단위 시험 이슈 해결, Web/Service Layer 구현 요구사항 분석  
