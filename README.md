@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[11월 2주 회고](https://github.com/Jsing/daily-scrum-growth/blob/2654e230ec0c995f8992565ed3539b391de6f6b2/2021/11%EC%9B%94/2%EC%A3%BC_%ED%9A%8C%EA%B3%A0.md) : 리팩토링! 업무 여유 부족!  
 [21.11.12](https://github.com/Jsing/daily-scrum-growth/blob/0518bc89d966db92db60a87eb1972491ea0d2947/2021/11%EC%9B%94/21.11.12.md) : NextMoveAcu 리팩토링 요소 분석! X-DC 설께 및 뼈대 구현! 회고! 계획!  
 [21.11.11](https://github.com/Jsing/daily-scrum-growth/blob/deb4c1d2076f2a376569c9934c5e418387b0b73e/2021/11%EC%9B%94/21.11.11.md) : Web 상태 메시지 정의! Web-Server 연동!  
 [21.11.10](https://github.com/Jsing/daily-scrum-growth/blob/2a294ff4b6cd1b85f43608708a27d0b2c0283410/2021/11%EC%9B%94/21.11.10.md) : VendorParam 처리! 제어 및 모니터링 기능 단위 시험!  
