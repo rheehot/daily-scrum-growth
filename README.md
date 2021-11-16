@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.11.16](https://github.com/Jsing/daily-scrum-growth/blob/cf018af1796ac694b722a11a0ea0aeb3baf64a7d/2021/11%EC%9B%94/21.11.16.md) : X-DC 모듈 구현! 시험 환경 구성! 메시지 스펙!    
 [21.11.15](https://github.com/Jsing/daily-scrum-growth/blob/84f4430d573fe2e0c127d3febe88df90760f247a/2021/11%EC%9B%94/21.11.15.md) : ChannelInitializer 구현! Web-API 연동 테스트!  
 [11월 2주 회고](https://github.com/Jsing/daily-scrum-growth/blob/2654e230ec0c995f8992565ed3539b391de6f6b2/2021/11%EC%9B%94/2%EC%A3%BC_%ED%9A%8C%EA%B3%A0.md) : 리팩토링! 업무 여유 부족!  
 [21.11.12](https://github.com/Jsing/daily-scrum-growth/blob/0518bc89d966db92db60a87eb1972491ea0d2947/2021/11%EC%9B%94/21.11.12.md) : NextMoveAcu 리팩토링 요소 분석! X-DC 설께 및 뼈대 구현! 회고! 계획!  
