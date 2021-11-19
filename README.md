@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.11.19](https://github.com/Jsing/daily-scrum-growth/blob/c3541fcc676e9475a7dafd06b0a6adf08ebd5357/2021/11%EC%9B%94/21.11.19.md) : 장비 등록! CAM 구현&시험! Web-API 연동! 회고& 계획!  
 [21.11.18](https://github.com/Jsing/daily-scrum-growth/blob/ff71367fd5199ad939a1b2fd05341fbeb5386435/2021/11%EC%9B%94/21.11.18.md) : 위성 운용팀과 회의! Pipeline -> Simulator -> Cam -> 단위 테스트!  
 [21.11.17](https://github.com/Jsing/daily-scrum-growth/blob/692b67f9bc9d4d70afaabc7fe037df34fd927179/2021/11%EC%9B%94/21.11.17.md) : 일정 계획과 검토! X-DC Pipeline 구현! 다양한 레벨의 단위 테스트!  
 [21.11.16](https://github.com/Jsing/daily-scrum-growth/blob/cf018af1796ac694b722a11a0ea0aeb3baf64a7d/2021/11%EC%9B%94/21.11.16.md) : X-DC 모듈 구현! 시험 환경 구성! 메시지 스펙 정의!    
