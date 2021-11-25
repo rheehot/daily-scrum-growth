@@ -1,7 +1,8 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
-[21.11.25](https://github.com/Jsing/daily-scrum-growth/blob/a7448e4de3571725ec94c69fd1f340e12d8ee5e0/2021/11%EC%9B%94/21.11.24.md) : X-DC 패스 초기화 구현! 테스트 케이스 개발! Web UI 연동 현황 확인! 정시 퇴근 주의!  
+[21.11.25](https://github.com/Jsing/daily-scrum-growth/blob/1eca140d9a0c6eb94975ecc2a745d099b1209ee9/2021/11%EC%9B%94/21.11.25.md) : X-DC 단위 테스트 개발! 장비 연동!  
+[21.11.24](https://github.com/Jsing/daily-scrum-growth/blob/a7448e4de3571725ec94c69fd1f340e12d8ee5e0/2021/11%EC%9B%94/21.11.24.md) : X-DC 패스 초기화 구현! 테스트 케이스 개발! Web UI 연동 현황 확인! 정시 퇴근 주의!  
 [21.11.23](https://github.com/Jsing/daily-scrum-growth/blob/629fc68922bbeca1e69fe1473182a0e21a9d01c7/2021/11%EC%9B%94/21.11.23.md) : 전송 구조 리팩토링 마무리! 에러 메시지 관리 구조 리팩토링! 초기화 구현!  
 [21.11.19](https://github.com/Jsing/daily-scrum-growth/blob/c3541fcc676e9475a7dafd06b0a6adf08ebd5357/2021/11%EC%9B%94/21.11.19.md) : 장비 등록! CAM 구현&시험! Web-API 연동! 회고& 계획!  
 [21.11.18](https://github.com/Jsing/daily-scrum-growth/blob/ff71367fd5199ad939a1b2fd05341fbeb5386435/2021/11%EC%9B%94/21.11.18.md) : 위성 운용팀과 회의! Pipeline -> Simulator -> Cam -> 단위 테스트!  
