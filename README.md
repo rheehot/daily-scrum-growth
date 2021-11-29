@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.11.29](https://github.com/Jsing/daily-scrum-growth/blob/38e15c30433762f92005310bdd849cb6470bc9de/2021/11%EC%9B%94/21.11.29.md) : Sender 구조 리팩토링!(전송 창구 단일화, 응답 처리 고도화) 오류 테스트 케이스 추가 개발! 개발하며 행복하기!  
 [21.11.26](https://github.com/Jsing/daily-scrum-growth/blob/d9742ea7faa800e0e21531bfa0176e337eb0c32c/2021/11%EC%9B%94/21.11.26.md) : S-DC 단위 테스트 고도화! 시험 중 이슈 처리!  
 [21.11.25](https://github.com/Jsing/daily-scrum-growth/blob/1eca140d9a0c6eb94975ecc2a745d099b1209ee9/2021/11%EC%9B%94/21.11.25.md) : X-DC 단위 테스트 개발! 장비 연동!  
 [21.11.24](https://github.com/Jsing/daily-scrum-growth/blob/a7448e4de3571725ec94c69fd1f340e12d8ee5e0/2021/11%EC%9B%94/21.11.24.md) : X-DC 패스 초기화 구현! 테스트 케이스 개발! Web UI 연동 현황 확인! 정시 퇴근 주의!  
