@@ -1,7 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
-[21.12.01](https://github.com/Jsing/daily-scrum-growth/blob/983b0d79c8b42d8f30e4cda5cc20935dcf4e7a24/2021/12%EC%9B%94/21.12.01.md) : LCAM 안테나 추적 시험! 팀 매니지먼트 & 스프린트! 글쓰기!  
+[21.12.01](https://github.com/Jsing/daily-scrum-growth/blob/983b0d79c8b42d8f30e4cda5cc20935dcf4e7a24/2021/12%EC%9B%94/21.12.01.md) : 안테나 추적 시험! 팀 매니지먼트 & 스프린트! 글쓰기!  
 [21.11.30](https://github.com/Jsing/daily-scrum-growth/blob/53869dcbe47d6dc8dae2a45952dd58ade8b0f944/2021/11%EC%9B%94/21.11.30.md) : 메시지 검증 기능 구현! Mapper 분리 설계! 인프라 구축 및 메뉴얼화!  
 [21.11.29](https://github.com/Jsing/daily-scrum-growth/blob/38e15c30433762f92005310bdd849cb6470bc9de/2021/11%EC%9B%94/21.11.29.md) : Sender 구조 리팩토링!(전송 창구 단일화, 응답 처리 고도화) 오류 테스트 케이스 추가 개발! 개발하며 행복하기!  
 [21.11.26](https://github.com/Jsing/daily-scrum-growth/blob/d9742ea7faa800e0e21531bfa0176e337eb0c32c/2021/11%EC%9B%94/21.11.26.md) : S-DC 단위 테스트 고도화! 시험 중 이슈 처리!  
