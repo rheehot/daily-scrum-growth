@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.12.03](https://github.com/Jsing/daily-scrum-growth/blob/6fbe708c28b30d88ad7fa2c5a12c676d9d10556a/2021/12%EC%9B%94/21.12.03.md) : 시뮬레이션 기반 패스 수행 정밀 통합 테스트! 사업 현황 전사 공유!  
 [21.12.02](https://github.com/Jsing/daily-scrum-growth/blob/7eb586ce99ebe4446e6891872330b3a80fe04e3f/2021/12%EC%9B%94/21.12.02.md) : 안테나 추적 시뮬레이션 기능 구현! 패스 수행 테스트! 미적용 사항 분석!  
 [21.12.01](https://github.com/Jsing/daily-scrum-growth/blob/983b0d79c8b42d8f30e4cda5cc20935dcf4e7a24/2021/12%EC%9B%94/21.12.01.md) : 안테나 추적 시험! 팀 매니지먼트 & 스프린트! 글쓰기!  
 [21.11.30](https://github.com/Jsing/daily-scrum-growth/blob/53869dcbe47d6dc8dae2a45952dd58ade8b0f944/2021/11%EC%9B%94/21.11.30.md) : 메시지 검증 기능 구현! Mapper 분리 설계! 인프라 구축 및 메뉴얼화!  
