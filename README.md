@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.12.13](https://github.com/Jsing/daily-scrum-growth/blob/0f5674f97559bcd15513ab984b83e5f18ffb271d/2021/12%EC%9B%94/21.12.13.md) : 스프린트 회의! 구 Cam 정리! 신규 Cam 계획!  
 [21.12.10](https://github.com/Jsing/daily-scrum-growth/blob/6bacf594a50642b2b12dbdef01bdf74dcf00de71/2021/12%EC%9B%94/21.12.10.md) : Git 브런치 관리 방법 정리! 스프린트 계획!  
 [21.12.09](https://github.com/Jsing/daily-scrum-growth/blob/5c65c01b6c844b8957602b12575b82a01b9cf299/2021/12%EC%9B%94/21.12.09.md) : 리포트 구현! 코드리뷰! CICD 탐색! JVisa 협업! 스프린트 계획!  
 [21.12.07](https://github.com/Jsing/daily-scrum-growth/blob/c7556c60b50b99adba465df71922a8e95c58ec1e/2021/12%EC%9B%94/21.21.07.md) : HDR 단위테스트! 리포트 기능 수정 범위 분석! 기타 작은 이슈들 처리!  
