@@ -1,6 +1,7 @@
 # daily-scrum-growth
 매일 하루의 업무와 학습을 정리하고 회고합니다.
 
+[21.12.22](https://github.com/Jsing/daily-scrum-growth/blob/78777558b339592a35fff4b39b1eb8e9dbc20018/2021/12%EC%9B%94/21.12.22.md) : 버그 분석 리포트! 메시징 구조 개선!  
 [21.12.16](https://github.com/Jsing/daily-scrum-growth/blob/78431fff9ae0051b19a06ef862939079c4add91d/2021/12%EC%9B%94/21.12.16.md) : Matrix 분석 및 설계 -> 협업하는 동료의 비동기 업무 Start -> Docket for Windows 설정 -> SSPA 분석 및 설계  
 [21.12.15](https://github.com/Jsing/daily-scrum-growth/blob/14d3a439b39867db3c4de11cd8d135c3e55a5b3c/2021/12%EC%9B%94/21.12.15.md) : Sspa, Matrix 분석 및 설계!  
 [21.12.13](https://github.com/Jsing/daily-scrum-growth/blob/0f5674f97559bcd15513ab984b83e5f18ffb271d/2021/12%EC%9B%94/21.12.13.md) : 스프린트 회의! 구 Cam 정리! 신규 Cam 계획!  
